@@ -42,5 +42,9 @@ https://public.tableau.com/app/profile/lakshmisetty.meghana/viz/ElectricCarAnaly
 ## GitHub Repository
 https://github.com/Meghana290607/EV-Charge-and-Range-Analysis
 
-## Author
-**Meghana**
+## Team Members
+- Meghana Lakshmisetty
+- Rajasri Kalapakuri
+- Rani Kola
+- Rayapati Sailaja
+- Shanmuki Pabbathi
