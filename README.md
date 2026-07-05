@@ -48,3 +48,9 @@ https://github.com/Meghana290607/EV-Charge-and-Range-Analysis
 - Rani Kola
 - Rayapati Sailaja
 - Shanmuki Pabbathi
+
+## Repository Maintained by
+Meghana Lakshmisetty (Github Repository Owner)
+
+## License
+This project was developed for educational purpose as part of a group academic project.
