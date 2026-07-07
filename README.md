@@ -35,45 +35,14 @@ This project uses four datasets containing:
 - Charts including Bar Charts, Pie Charts, and Line Charts
 
 ## Dashboard Visualizations
-
 The dashboard includes:
-
 - Bar Charts
 - Pie Charts
 - Maps
 - Line Charts
 - Comparative Analysis
 - Interactive Filters
-
----
-
-## Project Structure
-
-EV-Charge-and-Range-Analysis/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   ├── base.html
-│   ├── index.html
-│   ├── about.html
-│   ├── dashboard.html
-│   ├── story.html
-│   ├── team.html
-│   └── contact.html
-│
-├── static/
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   └── js/
-│
-├── datasets/
-│
-└── Tableau Workbook/
-
+  
 ## Project Files
 - Tableau Workbook (.twb/.twbx)
 - Four datasets used for analysis
