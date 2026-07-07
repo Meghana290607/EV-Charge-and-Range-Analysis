@@ -9,11 +9,14 @@ This project is an interactive Tableau dashboard that analyzes Electric Vehicle 
 - Visualize battery capacity, top speed, efficiency, and powertrain.
 - Provide interactive filters for better data exploration.
 
-## Tools Used
+## Tools and Technologies Used
 - Tableau Desktop
 - Tableau Public
 - MySQL
 - GitHub
+- Flask
+- Python,CSS,HTML
+- Bootstrap
 
 ## Datasets Used
 This project uses four datasets containing:
@@ -31,6 +34,46 @@ This project uses four datasets containing:
 - Interactive Filters
 - Charts including Bar Charts, Pie Charts, and Line Charts
 
+## Dashboard Visualizations
+
+The dashboard includes:
+
+- Bar Charts
+- Pie Charts
+- Maps
+- Line Charts
+- Comparative Analysis
+- Interactive Filters
+
+---
+
+## Project Structure
+
+EV-Charge-and-Range-Analysis/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── about.html
+│   ├── dashboard.html
+│   ├── story.html
+│   ├── team.html
+│   └── contact.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   └── js/
+│
+├── datasets/
+│
+└── Tableau Workbook/
+
 ## Project Files
 - Tableau Workbook (.twb/.twbx)
 - Four datasets used for analysis
@@ -43,7 +86,7 @@ https://public.tableau.com/app/profile/lakshmisetty.meghana/viz/ElectricCarAnaly
 https://github.com/Meghana290607/EV-Charge-and-Range-Analysis
 
 ## Team Members
-- Meghana Lakshmisetty
+- Meghana Lakshmisetty 
 - Rajasri Kalapakuri
 - Rani Kola
 - Rayapati Sailaja
@@ -51,6 +94,14 @@ https://github.com/Meghana290607/EV-Charge-and-Range-Analysis
 
 ## Repository Maintained by
 Meghana Lakshmisetty (Github Repository Owner)
+
+## Future Enhancements
+- Real-time EV data integration
+- Live charging station updates
+- Advanced analytics and reporting
+- Machine Learning-based EV prediction
+- User authentication and personalized dashboards
+
 
 ## License
 This project was developed for educational purpose as part of a group academic project.
