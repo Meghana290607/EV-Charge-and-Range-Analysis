@@ -1,0 +1,19 @@
+create database electric_vehicle;
+USE electric_vehicle;
+
+CREATE TABLE electric_cars (
+    Brand VARCHAR(50),
+    Model VARCHAR(100),
+    AccelSec DECIMAL(4,1),
+    TopSpeed_KmH INT,
+    Range_Km INT,
+    Efficiency_WhKm INT,
+    FastCharge_KmH INT,
+    RapidCharge VARCHAR(10),
+    PowerTrain VARCHAR(20),
+    PlugType VARCHAR(50),
+    BodyStyle VARCHAR(30),
+    Segment CHAR(1),
+    Seats INT,
+    PriceEuro INT
+);
