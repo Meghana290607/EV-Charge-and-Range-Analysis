@@ -1,0 +1,1 @@
+This folder involves assessing the volume of data rendered from the database, the impact of data filters on system responsiveness, and the complexity introduced by the number of visualizations. Optimizing these factors ensures the dashboard operates efficiently, providing timely and reliable insights.
